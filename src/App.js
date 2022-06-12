@@ -1,12 +1,6 @@
 function App() {
   return (
-    <div
-      style={{
-        display: "flex",
-        justifyContent: "center",
-        alignItems: "center",
-      }}
-    >
+    <div>
       <h1> Hello Gerakanamal</h1>
     </div>
   );
