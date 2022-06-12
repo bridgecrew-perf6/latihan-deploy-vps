@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>Howdy From Gerakanamal</h1>
+      <h1>Assalamualaikum @by Gerakanamal</h1>
     </div>
   );
 }
